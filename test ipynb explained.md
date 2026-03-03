@@ -3,7 +3,8 @@
 This program tests two different ways to check if a number is prime and shows which one is faster using a graph.  
 
 ---
-## [# crazy man](test.ipynb)
+## [# Notebook](test.ipynb)
+## [# Graph](download.png)
 ## What is a Prime Number?
 
 A **prime number** is a number greater than 1 that can only be divided evenly by **1** and itself.  
